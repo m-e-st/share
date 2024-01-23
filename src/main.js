@@ -254,3 +254,4 @@ app.listen(
     () => console.log(`Zone service running on :${Config.PORT}`)
 );
 
+module.exports = app;

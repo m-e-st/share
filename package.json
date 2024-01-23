@@ -1,9 +1,9 @@
 {
-  "name": "zone",
+  "name": "share",
   "version": "1.0.0",
-  "description": "linus.zone",
+  "description": "share.hwn.de from linus.zone",
   "main": "src/main.js",
-  "repository": "git@github.com:thesephist/zone.git",
+  "repository": "git@github.com:m-e-st/share.git",
   "author": "Linus Lee <hi@linus.zone>",
   "license": "MIT",
   "scripts": {
